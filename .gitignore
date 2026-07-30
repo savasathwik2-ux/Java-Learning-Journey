@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+
+# Build output
+out/
+
+# IntelliJ module files
+*.iml
+
+# Windows system files
+desktop.ini
